@@ -1,0 +1,11 @@
+# -------------------------------------------------------------------
+# file: .gitignore
+# type: Git ignore file
+# project: helloFortran
+# -------------------------------------------------------------------
+
+# build targets
+hello
+
+# stuff I just don't want to track, e.g. developer notes
+/untracked/
